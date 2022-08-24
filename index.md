@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Hi, I'm Bobby Turner
 
-You can use the [editor on GitHub](https://github.com/FoldyHands/foldyhands.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+A systems administrator currently working for Montgomery County in Dayton, OH.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In my free time, I like to learn new technology, try my hand at leathercraft, or play video games.
 
-### Markdown
+My current learning project is [a Discord bot to track Magic the Gathering trades and "trade binders"](https://github.com/FoldyHands/MagicTradingFloor), and I'm studying for my AWS Solutions Architect Associate exam.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Work Experience
 
-```markdown
-Syntax highlighted code block
+- ### Montgomery County
+  - Led security initiatives including endpoint encryption on all workstations with BitLocker, as well as multi-factor authentication with Azure Active Directory and Conditional access policies.
+  - Automated processes and reports by writing programs in Python and interfacing with databases in PostgreSQL, increasing accuracy and delivery of common metrics.
+  - Developed and executed a project plan to migrate all users to Exchange Online, increasing mail performance while simultaneously reducing storage costs.
 
-# Header 1
-## Header 2
-### Header 3
+- ### Taylor Corporation (Formerly Standard Register)
+  - Created and maintained an internal knowledgebase solution, increasing first-call resolution by 20% and empowering the front-line groups to work more efficiently.
+  - Automated everyday tasks and included graphical user interfaces (GUI) to provide ease-of-use and streamline processes.
 
-- Bulleted
-- List
+- ### Zygor Guides
+  - Led a team of content writers through multiple expansions and deadlines, keeping morale high and ensuring quality products.
+  - Introduced an internal guide for team members to reference for common issues found when using the in-game variables.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FoldyHands/foldyhands.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For more details see [my full resume](https://github.com/BobbyTurnerDev/bobbyturner.github.io/raw/main/RobertTurnerResume.pdf).
