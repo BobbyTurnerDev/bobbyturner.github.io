@@ -4,7 +4,7 @@ A systems administrator currently working for Montgomery County in Dayton, OH.
 
 In my free time, I like to learn new technology, try my hand at leathercraft, or play video games.
 
-My current learning project is [a Discord bot to track Magic the Gathering trades and "trade binders"](https://github.com/FoldyHands/MagicTradingFloor), and I'm studying for my AWS Solutions Architect Associate exam.
+My current learning project is [a Discord bot to track Magic the Gathering trades and "trade binders"](https://github.com/BobbyTurnerDev/MagicTradingFloor), and I'm studying for my AWS Solutions Architect Associate exam.
 
 ### Work Experience
 
